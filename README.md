@@ -34,4 +34,3 @@
 
 ![captura3](/gitgraph.png)
 
-finish
